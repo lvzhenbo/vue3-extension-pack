@@ -1,0 +1,47 @@
+{
+  "name": "vue3-extension-pack",
+  "displayName": "Vue3 Extension Pack",
+  "description": "一个自以为是的Vue3扩展包 An opinionated Vue3 expansion package",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "extension pack",
+    "vue extension collection",
+    "vue3"
+  ],
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "ipatalas.vscode-postfix-ts",
+    "jock.svg",
+    "mikestead.dotenv",
+    "mintlify.document",
+    "ms-vscode.live-server",
+    "naumovs.color-highlight",
+    "pflannery.vscode-versionlens",
+    "rangav.vscode-thunder-client",
+    "rubbersheep.gi",
+    "russell.any-rule",
+    "sdras.vue-vscode-snippets",
+    "stylelint.vscode-stylelint",
+    "usernamehw.errorlens",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "Vue.volar",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
