@@ -35,6 +35,5 @@
 ## 相关链接
 
 - [Github](https://github.com/lvzhenbo/vue3-extension-pack)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **享受开发吧!**
