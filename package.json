@@ -1,8 +1,10 @@
 {
   "name": "vue3-extension-pack",
   "displayName": "Vue3 Extension Pack",
-  "description": "一个自以为是的Vue3扩展包 An opinionated Vue3 expansion package",
+  "description": "一个自以为是的Vue3扩展包",
   "version": "0.0.1",
+  "publisher": "lvzhenbo",
+  "icon": "logo.svg",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -24,7 +26,6 @@
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "ecmel.vscode-html-css",
-    "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "ipatalas.vscode-postfix-ts",
     "jock.svg",
