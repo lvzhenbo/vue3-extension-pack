@@ -4,6 +4,7 @@
   "description": "一个自以为是的Vue3扩展包",
   "version": "0.0.1",
   "publisher": "lvzhenbo",
+  "license": "SEE LICENSE IN LICENSE",
   "icon": "logo.svg",
   "engines": {
     "vscode": "^1.71.0"
