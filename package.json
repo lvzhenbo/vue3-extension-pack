@@ -6,6 +6,13 @@
   "publisher": "lvzhenbo",
   "license": "SEE LICENSE IN LICENSE",
   "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/lvzhenbo/vue3-extension-pack"
+  },
+  "homepage": "https://github.com/lvzhenbo/vue3-extension-pack",
+  "bugs": {
+    "url": "https://github.com/lvzhenbo/vue3-extension-pack/issues"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
